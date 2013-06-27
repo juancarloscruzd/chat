@@ -1,7 +1,7 @@
 chat
 ====
 
-Just a litle chat module with Node.js, Socket.io, Express and Jade. This chat have been developed for this [tutorial]("http://net.tutsplus.com/tutorials/javascript-ajax/real-time-chat-with-nodejs-socket-io-and-expressjs/"):
+Just a litle chat module with Node.js, Socket.io, Express and Jade. This chat have been developed for this [tutorial](http://net.tutsplus.com/tutorials/javascript-ajax/real-time-chat-with-nodejs-socket-io-and-expressjs/):
 
 EN: 
 This app is ready to go. Justo open the console navigate to the project run the script:
